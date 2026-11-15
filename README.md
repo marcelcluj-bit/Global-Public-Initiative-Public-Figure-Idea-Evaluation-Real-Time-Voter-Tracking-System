@@ -1,0 +1,2 @@
+# Global-Public-Initiative-Public-Figure-Idea-Evaluation-Real-Time-Voter-Tracking-System
+Here is the complete, professional open-source project framework written entirely in English, tailored for any public figure or politician worldwide. It evaluates their public proposals (regardless of whether they are implemented or not) and incorporates a real-time voting mechanism.for voters to judge whether future initiators fulfill their vision
