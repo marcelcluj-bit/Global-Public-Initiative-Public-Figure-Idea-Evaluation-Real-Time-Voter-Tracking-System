@@ -3,6 +3,24 @@ Here is the complete, professional open-source project framework written entirel
 This script monitors international news feeds for policy proposals or public statements made by any public figure/politician worldwide, evaluates whether the idea is Proposed, In Progress, Implemented, or Abandoned/Contradicted, generates the full 8-point project management blueprint via gemini-2.5-flash, and builds the interactive docs/index.html portal equipped with the Vot în Timp real-time voter alignment tracker
 # Global Politician Idea Tracker & Vot în Timp Accountability Portal
 
+Repository Structure
+
+global-politician-tracker/
+├── .github/
+│   └── workflows/
+│       └── daily_global_scan.yml   # Automated daily GitHub Action
+├── data/
+│   └── proposals.json              # Database of public figures, ideas & implementation status
+├── docs/
+│   └── index.html                  # Interactive public web portal with Vot în Timp module
+├── main.py                         # Core Python script (Scraper + Gemini AI + Site Builder)
+├── requirements.txt                # Python dependencies
+├── LICENSE                         # MIT License
+└── README.md                       # English documentation & setup guide
+
+
+
+
 An open-source AI pipeline powered by Python and Google Gemini that tracks policy ideas, campaign promises, and public initiatives proposed by politicians and public figures worldwide.
 
 ## Key Capabilities
